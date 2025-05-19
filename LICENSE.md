@@ -8,7 +8,7 @@ BY DOWNLOADING, CLONING, FORKING, ACCESSING, USING, OR CONTRIBUTING TO ANY PART 
 If you do not accept all terms, you must refrain from using or contributing to the Software.
 
 ## 1. Parties  
-**Licensor:** The 2ndSight Project Contributors (contact [contact@2ndSight.dev](mailto:contact@2ndSight.dev))  
+**Licensor:** The 2ndSight Project Contributors (contact [info@2ndSight.dev](mailto:info@2ndSight.dev))  
 **Licensee:** Any individual or entity exercising rights under this Agreement.
 
 ## 2. Recitals  
